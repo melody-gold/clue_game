@@ -1,0 +1,17 @@
+# Eclipse files
+/bin 
+/.settings
+*.class
+.project
+.classpath
+.DS_Store
+.metadata
+
+# wsl identifiers and metadata files
+*Zone.Identifier
+*~*
+
+# zip and project submission files
+*.zip
+gitlog.txt
+gitrefactor.txt

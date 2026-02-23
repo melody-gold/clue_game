@@ -1,0 +1,32 @@
+The following describe the rational behind the FileInitTests
+
+Test 1: testBoardDimensions 
+	tests board dimensions by comparing with static dimension variables
+	
+Test 2: testRoomData
+	asserts labels and rooms are accurate to OUR room files
+	
+Test3: testDoorwayAccuracy
+	UP: Doorway to Dungeon Cell @ (5, 8) is a Doorway UP
+	DOWN: Doorway to Art Gallery Cell @ (14, 11) is a Doorway DOWN
+	LEFT: Doorway to Garden Cell @ (17, 9) is a Doorway LEFT
+	RIGHT: Doorway to Music Room Cell @ (21, 21) is a Doorway RIGHT
+	
+	Walkway: Walkway @ (0, 5) is not a Doorway
+	Unused: Wall @ (0, 6) is not a Doorway
+
+Test 4: testNumberOfDoorways
+	asserts that board has OUR number of room: 41
+	
+Test 5: testCellAccuracy
+	Cell @ (0, 0): Normal Library Cell
+	Cell @ (5, 5): Normal Lounge Cell
+	Cell @ (19, 2): Normal Study Cell
+	Cell @ (20, 9): Normal Garden Cell
+	Cell @ (10, 24): Normal Science Lab Cell
+	Cell @ (1, 25): Normal Observatory Cell
+	Cell @ (2, 13): Dungeon Center Cell
+	Cell @ (16, 12): Art Gallery Label Cell
+	Cell @ (22, 25): Music Room Secret Passage Cell
+	Cell @ (11, 6): Walkway Cell
+	Cell @ (9, 8): Unused Cell

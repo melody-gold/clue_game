@@ -1,0 +1,12 @@
+LO23P Clue Game
+Melody Goldanloo
+
+I have most of the outline done! I created a method that takes a boolean 
+(T if accusation, F if suggestion which is the default) to handle the logic
+for differentiating between the two types of guesses.
+
+I will have to experiment with different ways of implementing, but I think
+it's an ok first pass. Aside from that, I have everything thats the same
+between the two types of guess put in there.
+
+I need to make it a modal dialog box, too. I should be able to figure it out :)

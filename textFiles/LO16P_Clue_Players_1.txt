@@ -1,0 +1,19 @@
+LO16P Clue Players 1
+
+Melody Goldanloo & Jacob Dionne
+
+	•	How many player objects should there be and of what type?
+		6 players -> 5 Computer Players and 1 Human Player
+
+	•	How many cards are in the deck? Are they represented properly?
+		21 cards -> 9 rooms, 6 players, and 6 weapons
+	•	What are the requirements for the Solution?
+		To get the room, person, and weapon card
+	•	What are the requirements for a correct deal?
+	◦	One card for each type (suspect, weapon, and room) dealt to the answer pile (confidential) 
+	◦	The rest of the cards are dealt to players.
+	◦	All cards should be dealt.
+	◦	All players should have roughly the same number of cards
+	◦	Deck size could easily change (e.g., we could add more weapons). So, try to avoid hard-coding # of cards/player.
+	◦	The same card should not be given to >1 player
+

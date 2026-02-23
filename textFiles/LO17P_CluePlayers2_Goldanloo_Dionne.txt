@@ -1,0 +1,22 @@
+LO17P Clue Players 2
+Melody Goldanloo & Jacob Dionne
+
+METHODS:
+Board Class:
+Check an accusation
+Handle a suggestion made
+
+Player class:
+Player disproves a suggestion
+
+ComputerPlayer class:
+Computer player create a suggestion
+Computer player select a move target
+
+
+NOTES
+ - make hand and seen separate (easier for UI)
+ - checking an accusation:
+	• use a .equals() method in solution class to check
+	if board solution is the same as the one we passed to it
+	• return T/F

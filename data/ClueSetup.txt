@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Observatory, O
+Room, Garden, G
+Room, Music Room, M
+Room, Library, L
+Room, Lounge, U
+Room, Study, S
+Room, Dungeon, D
+Room, Laboratory, C
+Room, Art Gallery, A
+// Other board spaces
+Space, Unused, X
+Space, Walkway, W
+// Players
+Player, Human, Cassidy Murderdoer, pink, 7, 11
+Player, Computer, Omni-Man, red, 7, 14
+Player, Computer, Elisabeth Womanslaughter, magenta, 10, 7
+Player, Computer, John Wick, black, 10, 18
+Player, Computer, Shrek, green, 13, 11
+Player, Computer, Anakin Skywalker, teal, 13, 14
+// Weapons
+Weapon, Vinyl Record
+Weapon, Phone Cord
+Weapon, Ray Gun
+Weapon, Pencil
+Weapon, Lightsaber
+Weapon, Hydro Flask
