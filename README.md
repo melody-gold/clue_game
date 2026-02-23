@@ -2,6 +2,9 @@
 
 A digital implementation of the board game *Clue*, built as a collaborative class project for CSCI 303 (Software Engineering).
 
+## Authors
+Jacob Dionne & Melody Goldanloo
+
 ## Overview
 This project implements the core mechanics of Clue, including player movement, room entry, suggestions, and accusation logic. The game is built using Java and follows an object-oriented design to model players, cards, rooms, and gameplay flow.
 
